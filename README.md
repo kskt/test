@@ -5,3 +5,4 @@ b
 modification.
 another mod.
 foobar
+baz
